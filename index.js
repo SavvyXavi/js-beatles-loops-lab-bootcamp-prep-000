@@ -23,7 +23,7 @@ function iLoveTheBeatles(x){
   var i = 0;
   do {
     emptyArr2.push("I love the Beatles!");
-    x++;
+    i++;
   } while(i < x);
 
   return emptyArr2;
