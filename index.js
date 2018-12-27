@@ -14,5 +14,5 @@ function johnLennonFacts(facts) {
   emptyArr.push (facts[i] + "!!!");
   i++;
   }
-  return facts;
+  return emptyArr;
 }
